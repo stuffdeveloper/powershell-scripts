@@ -1,2 +1,2 @@
-# powershell-scripts
+# Powershell
 Notes for Powershell course on udemy
